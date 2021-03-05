@@ -18,10 +18,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 3. Ejecutar el programa.
 ```
 
-### Construido con 🛠️
+## Construido con 🛠️
 * [Netbeans](https://netbeans.org/) - IDE
 * [Java](https://www.java.com/es/) - Lenguaje
 * [MySQL](https://www.mysql.com/) - Base de datos
 
-### Autores ✒️
+## Autores ✒️
 * **Kevin González Navarro** - *Desarrollador* - [KAGN-521](https://github.com/KAGN-521)
